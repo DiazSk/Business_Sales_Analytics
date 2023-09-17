@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 
 2. Open the Power BI file (`Madhav Store Dashboard.pbix`) using Power BI Desktop.
 
-3. Downlaod the sanple data or replace it with your own personal data. 
+3. Downlaod the sample data or replace it with your own personal data. 
 
 4. Connect your data sources or replace the sample data with your own e-commerce sales data.
 
